@@ -4,12 +4,12 @@
 This project explores the world of British Airways reviews, employing various data science techniques to extract insights and predictions from passenger experiences. The project involves web scraping, data manipulation, machine learning, and data visualization.
 
 ## Skills Demonstrated
-Data Manipulation: Cleaning and preprocessing the scraped data for analysis.
-Data Science: Applying statistical analysis and machine learning to extract insights.
-Data Visualization: Creating compelling visualizations to communicate findings effectively.
-Machine Learning: Training models to predict outcomes based on review data.
-Python: Utilizing Python for data manipulation, analysis, and model implementation.
-Web Scraping: Extracting relevant information from the web for analysis.
+-- <strong>Data Manipulation:</strong> Cleaning and preprocessing the scraped data for analysis.
+-- <strong>Data Science:</strong> Applying statistical analysis and machine learning to extract insights.
+-- <strong>Data Visualization:</strong> Creating compelling visualizations to communicate findings effectively.
+-- <strong>Machine Learning:</strong> Training models to predict outcomes based on review data.
+-- <strong>Python:</strong> Utilizing Python for data manipulation, analysis, and model implementation.
+-- <strong>Web Scraping:</strong> Extracting relevant information from the web for analysis.
 
 ## Setup and Installation
 Clone the Repository:
